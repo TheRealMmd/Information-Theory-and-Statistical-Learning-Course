@@ -22,11 +22,4 @@ This repository contains my coursework and project materials for the **Informati
 
 **Read the report:** See `Project Report/Project Report.pdf`.
 
-## Notes on the Coursework
-The problem-set solutions reflect my understanding of topics in information theory and statistical learning (e.g., entropy and mutual information, data-processing inequalities, concentration and generalization, ERM/PAC/VC viewpoints). Materials are for educational use.
 
-## Acknowledgments
-Thanks to the course instructor and mentors for guidance and feedback.
-
-## License
-Unless stated otherwise inside a subfolder, the material is released under the MIT License.
